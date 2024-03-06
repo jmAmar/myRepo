@@ -13,3 +13,6 @@ print("\n"+str)
 
 str = "- comment tournez-vous ?"
 print("\n"+str)
+
+str = "- je suis l'inconnu venu de GitHub !"
+print("\n"+str)
