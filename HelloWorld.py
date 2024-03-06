@@ -8,3 +8,6 @@ Created on Wed Mar  6 10:13:09 2024
 str = "! Hello World !"
 print("\n"+str)
 
+str = "! Bonjour Monde !"
+print("\n"+str)
+
